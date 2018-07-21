@@ -1,7 +1,0 @@
-Supported targets:
-    intel-aero-image
-
-Now type
-    bitbake intel-aero-image
-
-To build the final image
